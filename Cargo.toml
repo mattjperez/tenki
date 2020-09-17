@@ -1,0 +1,12 @@
+[package]
+name = "tenki"
+version = "0.1.0"
+authors = ["Matthew Perez <matt@mperez.io>"]
+edition = "2018"
+description = "CLI Weather Application"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/mattjperez/tenki"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
