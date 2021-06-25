@@ -3,7 +3,7 @@ use serde_json;
 use std::collections::HashMap;
 use std::env;
 
-mod localhost;
+mod local;
 mod openweather;
 
 #[tokio::main]
